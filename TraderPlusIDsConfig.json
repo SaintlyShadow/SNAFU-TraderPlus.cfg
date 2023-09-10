@@ -1,0 +1,42 @@
+{
+  "Version": "2.5",
+  "IDs": [
+{
+      "Id": 1,
+      "Categories": [
+        "Melee",
+        "Sidearms",
+        "Rifles",
+        "Shotguns",
+        "Submachine Guns",
+        "Assault Rifles",
+        "Sniper Rifles",
+        "Grenades",
+        "Ammunition",
+        "Magazines",
+        "Handguards",
+        "Buttstocks",
+        "Optics",
+        "Supressors",
+        "Compensators",
+        "Bayonets",
+        "Flashlights",
+        "SNAFU Weapons 1",
+        "SNAFU Weapons 2",
+        "SNAFU Scopes",
+        "SNAFU HandGuards",
+        "SNAFU Stocks",
+        "SNAFU Suppressors",
+        "SNAFU Bipods",
+        "SNAFU Attachments",
+        "SNAFU Ammo",
+        "SNAFU Magazines",
+        "SNAFU Grips"
+      ],
+      "LicencesRequired": [
+        "Military License"
+      ],
+      "CurrenciesAccepted": []
+    }
+  ]
+}
